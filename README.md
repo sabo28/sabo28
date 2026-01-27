@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/labomalik) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sabo28&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sabo28&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabo28&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
